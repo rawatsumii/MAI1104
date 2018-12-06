@@ -1,0 +1,82 @@
+ table{
+ 	float: left;
+ 	width: 70%;
+ 	
+
+
+}
+#left{
+	display: none;
+}
+
+.color
+{
+	background-color: rgb(179,206,233);
+	color: rgb(102,146,181);
+	padding-top:  0.5px;
+	padding-bottom: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+
+
+}
+.computer{
+	background-color: rgb(186,230,177);
+	color: rgb(74,149,84);
+	padding-top:  0.5px;
+	padding-bottom: 30px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+.data{
+	background-color: rgb(216,154,203);
+	color: rgb(133,65,126);
+	padding-top:  15px;
+	padding-bottom: 15px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+.nan
+{
+	background-color: rgb(245,236,205);
+	color: rgb(185,171,144);
+	padding-top:  12px;
+	padding-bottom: 12px;
+	border-radius: 5px;
+	padding-left: 5px;
+}
+.bordar
+{
+    border-bottom: 1px solid black;
+    border-collapse: separate;
+    border-spacing: 30px;
+    
+
+}
+#lokesh{
+	border-collapse: separate;
+    border-spacing: 30px;
+    width: 50%
+    float: left;
+ }
+#al{
+display: none;
+margin-left: 50%;
+}
+#or{
+	border-bottom: 1px solid black;
+	width: 20% 
+}
+
+
+.material-icons{
+	background-color: rgb(255,255,255);
+	margin-top: 4px;
+	height: 29px;
+	
+
+}
+#q{
+	margin-top: 3px;
+	
+}
